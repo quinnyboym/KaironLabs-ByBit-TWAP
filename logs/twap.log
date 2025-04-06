@@ -1,0 +1,25 @@
+2025-04-06 14:39:29,934 - INFO - Starting TWAP for BTCUSDT side=Sell total_qty=0.01
+2025-04-06 14:39:30,579 - INFO - [Run 1] market_price = 82454.21
+2025-04-06 14:39:41,640 - INFO - Iteration 1 order 1922729108803261952 filled=0.001, total=0.0010
+2025-04-06 14:39:42,173 - INFO - [Run 2] market_price = 82454.21
+2025-04-06 14:39:53,218 - INFO - Iteration 2 order 1922729206044005888 filled=0.001, total=0.0020
+2025-04-06 14:39:53,735 - INFO - [Run 3] market_price = 82800.00
+2025-04-06 14:40:04,795 - INFO - Iteration 3 order 1922729303007925760 filled=0.001, total=0.0030
+2025-04-06 14:40:05,317 - INFO - [Run 4] market_price = 82800.00
+2025-04-06 14:40:16,369 - INFO - Iteration 4 order 1922729400231892480 filled=0.001, total=0.0040
+2025-04-06 14:40:16,887 - INFO - [Run 5] market_price = 82800.00
+2025-04-06 14:40:27,603 - INFO - Iteration 5 order 1922729494452737536 filled=0.001, total=0.0050
+2025-04-06 14:40:27,787 - INFO - [Run 6] market_price = 83545.07
+2025-04-06 14:40:38,841 - INFO - Iteration 6 order 1922729588723914240 filled=0.001, total=0.0060
+2025-04-06 14:40:39,028 - INFO - [Run 7] market_price = 83019.20
+2025-04-06 14:40:49,739 - INFO - Iteration 7 order 1922729680193295872 filled=0.000279, total=0.0063
+2025-04-06 14:40:50,261 - INFO - [Run 8] market_price = 86400.00
+2025-04-06 14:41:00,975 - INFO - Iteration 8 order 1922729774414140928 filled=0.001, total=0.0073
+2025-04-06 14:41:01,520 - INFO - [Run 9] market_price = 86400.00
+2025-04-06 14:41:12,238 - INFO - Iteration 9 order 1922729868853089792 filled=0.001, total=0.0083
+2025-04-06 14:41:12,776 - INFO - [Run 10] market_price = 90600.00
+2025-04-06 14:41:23,493 - INFO - Iteration 10 order 1922729963308815872 filled=0.001, total=0.0093
+2025-04-06 14:41:23,493 - INFO - Cancelling any remaining open orders
+2025-04-06 14:41:24,013 - INFO - Cancel response: {'retCode': 0, 'retMsg': 'OK', 'result': {'list': [], 'success': '1'}, 'retExtInfo': {}, 'time': 1743943283968}
+2025-04-06 14:41:24,013 - INFO - TWAP completed
+2025-04-06 14:41:24,013 - INFO - TWAP Finished - Made By Quinten Maes
